@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "users-api-manadgement"
+    }
+  },
+  "defaultProject": "users-api-manadgement",
+  "cli": {
+    "analytics": "fa097647-627b-4f60-9343-8c720f41d74d"
+  }
 }
